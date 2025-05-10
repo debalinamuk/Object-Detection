@@ -1,0 +1,1 @@
+Object detection uses algorithms to locate and classify objects in images or videos. YOLOv3, trained on the COCO dataset, is a fast one-stage model that detects objects in a single pass. Unlike slower two-stage methods like R-CNN, YOLO balances speed and accuracy, though it requires substantial data and computing power to train.
